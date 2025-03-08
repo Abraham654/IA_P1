@@ -1,0 +1,2 @@
+#Este codigo es para ver que imprime con simple espacios varios argumento ya que estos forman una cadena y no por eso se veran afectados en el print
+print("La Witsi Witsi Araña" , "subió" , "a su telaraña.")
