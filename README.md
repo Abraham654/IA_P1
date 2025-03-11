@@ -1,0 +1,1 @@
+Esta es la practica 1 del Primer parcial que minimo debe de tener 25 codigos y commits, no mas que yo tengo commits de mas por cofundir materias y el intento de sincronizar el visual studio code en mi computadora y un error de ramas
