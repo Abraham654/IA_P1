@@ -8,3 +8,7 @@ print(6.5//2)
 #los numeros con decimales sin redondear
 #por ejemplo el siguiente que es flotante
 print(6.5/2)
+print(6 // 4)
+print(6. // 4)
+print(-6 // 4)
+print(6. // -4)
